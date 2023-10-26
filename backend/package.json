@@ -23,13 +23,13 @@
     "morgan": "^1.10.0",
     "per-env": "^1.0.2",
     "pg": "^8.0.0",
-    "sequelize": "^5.21.6",
-    "sqlite3": "^5.0.8"
+    "sequelize": "^5.21.6"
   },
   "devDependencies": {
     "dotenv-cli": "^3.1.0",
     "faker": "^4.1.0",
     "nodemon": "^2.0.2",
-    "sequelize-cli": "^5.5.1"
+    "sequelize-cli": "^5.5.1",
+    "sqlite3": "^5.1.6"
   }
 }
